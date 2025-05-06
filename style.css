@@ -18,6 +18,8 @@ h1 {
 
 .title {
     background-color: gray;
+    text-align: center;
+    border: 10px black solid;
 }
 
 #important {
